@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":1,"expanded":false,"name":"MAP001","order":3,"parentId":0,"scrollX":491,"scrollY":360.5},
 {"id":2,"expanded":true,"name":"Chara_config","order":2,"parentId":0,"scrollX":491,"scrollY":263.5},
 {"id":3,"expanded":false,"name":"New_Game","order":1,"parentId":0,"scrollX":491,"scrollY":263.5}
 ]
